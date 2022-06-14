@@ -17,3 +17,6 @@ Some of the pixel art (nes, megadrive etc) by Yoshi-Kun @
 http://yspixel.jpn.org/icon/game/index.htm
 
 All other pixel work by EmuChicken of Team Pandory
+
+# SUPPORT US!
+<a href="https://www.buymeacoffee.com/CKZbiXa" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
