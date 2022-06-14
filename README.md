@@ -2,17 +2,18 @@
 By Team Pandory
 https://www.youtube.com/c/TeamPandory
 
-Description:
+# Description
 Organize your USB sticks a bit better by giving them each their own icons.
 
-Installation:
+# Installation
 Simply extract contents of an icon folder to the usb stick.
 If you wish to have the Pandory icon, enter the pandory folder, extract the icon.ico and autorun.inf to your usb stick.
 
-Video:
+# Video
+
 [![YouTube Overview and Guide](https://img.youtube.com/vi/mBTHrHYMn4Q/0.jpg)](https://www.youtube.com/watch?v=mBTHrHYMn4Q)
 
-Thanks:
+# Thanks
 Original "Boing" icon and inspiration: "Rhcp Livetrade" on "The A500 Mini/Maxi User Group" Facebook Group
 https://www.mediafire.com/file/gue0jxylpy1rdoj/a500-usb-stick-icon.zip/file
 
