@@ -1,4 +1,4 @@
-USB Sticky Icons Pack 1.0
+USB Sticky Icons Pack
 By Team Pandory
 https://www.youtube.com/c/TeamPandory
 
